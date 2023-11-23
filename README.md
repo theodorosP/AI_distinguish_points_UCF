@@ -1,1 +1,2 @@
 # AI_distinguish_points_UCF
+In collaboration with the University of Central Florida's Department of Statistics, we developed a neural network to distinguish between real and fake data points. The use of Julia and the Flux library proved to be instrumental in achieving an accuracy of around 85%, even with overlapping data points. Julia's speed and efficiency, along with Flux's high-level API for machine learning and deep learning, made them ideal tools for this project
